@@ -5,8 +5,8 @@ I'm Liz, recent Wyncode grad & full stack developer!
 ### About Me
 
 - 🔭 I’m currently working on Figure Finder, a MERN stack app with GraphQL that lets you search for Artistic Swimming competition figures!
-- 🌱 I’m currently learning: GraphQL with Apollo!
-- ⚡ I'm currently improving: my SASS/SCSS skills!
+- 🌱 I’m currently learning: Gatsby & GraphQL with Apollo!
+- ⚡ I'm currently sharpening: my SASS/SCSS skills!
 - ✅ Next up: learning a SQL database!
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
