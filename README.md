@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**e-a-w/e-a-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liz, recent Wyncode grad & full stack developer!
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Figure Finder, a MERN stack app with GraphQL that lets you search for Artistic Swimming competition figures!
+- 🌱 I’m currently learning: GraphQL with Apollo!
+- ⚡ I'm currently improving: my SASS/SCSS skills!
+- ✅ Next up: learning a SQL database!
+- 💬 Ask me about anything!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
+- 😄 Pronouns: she/her
+- 🐍 Fun fact: I love snakes and own three adorable ball pythons!
+
+<hr/>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=e-a-w&show_icons=true&theme=cobalt))](https://github.com/e-a-w/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-a-w&theme=cobalt&layout=compact)](https://github.com/e-a-w/github-readme-stats)
