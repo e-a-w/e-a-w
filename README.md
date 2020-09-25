@@ -15,6 +15,6 @@ I'm Liz, recent Wyncode grad & full stack developer!
 
 <hr/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=e-a-w&show_icons=true&theme=cobalt))](https://github.com/e-a-w/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=e-a-w&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-a-w&theme=cobalt&layout=compact)](https://github.com/e-a-w/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-a-w&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
