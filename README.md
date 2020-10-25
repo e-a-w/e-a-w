@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liz, recent Wyncode grad & full stack developer!
+I'm Liz, full stack developer & Wyncode teaching assistant!
 
 ### About Me
 
