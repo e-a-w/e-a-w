@@ -1,12 +1,12 @@
 ### Hello! 👋
 
-I'm Liz, full stack developer & Wyncode teaching assistant!
+I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
 
 ### About Me
 
-- 💕 Just finished: [Heart 2 Heart](https://github.com/Cal9233/heart2heart/) -> an entry for the Palm Beach Tech Hackathon!
+- 💕 Recently finished: [Heart 2 Heart](https://github.com/Cal9233/heart2heart/) -> an entry for the Palm Beach Tech Hackathon!
 - 🏊 I’m currently working on [Figure Finder](https://figure-finder.herokuapp.com/), a MERN stack app with GraphQL that lets you search for Artistic Swimming competition figures!
-- 🌱 I’m currently learning: Gatsby & GraphQL with Apollo!
+- 🌱 I’m currently learning: Ruby on Rails & Vue --> Stay tuned for some practice projects using those!
 - ⚡ I'm currently sharpening: my [SASS/SCSS skills](https://github.com/e-a-w/sass-scss-practice)!
 - 🔭 Next up: learning a SQL database!
 - 💬 Ask me about anything!
