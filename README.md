@@ -2,17 +2,23 @@
 
 I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
 
-### About Me
-
-- 💕 Recently finished: [Heart 2 Heart](https://github.com/Cal9233/heart2heart/) -> an entry for the Palm Beach Tech Hackathon!
-- 🏊 I’m currently working on [Figure Finder](https://figure-finder.herokuapp.com/), a MERN stack app with GraphQL that lets you search for Artistic Swimming competition figures!
-- 🌱 I’m currently learning: Ruby on Rails & Vue --> Stay tuned for some practice projects using those!
-- ⚡ I'm currently sharpening: my [SASS/SCSS skills](https://github.com/e-a-w/sass-scss-practice)!
-- 🔭 Next up: learning a SQL database!
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
-- 😄 Pronouns: she/her
-- 🐍 Fun fact: I love snakes and own three adorable ball pythons!
+
+<hr/>
+
+- 📌 Finished projects:
+  - 🐍 [Petster Exotic](https://github.com/wyncode/C38_snakes_on_a_repo) -> MERN pet-sitting app; winner of Wyncode Pitch Night 09/2020!
+  - 💕 [Heart2Heart](https://github.com/Cal9233/heart2heart) -> MERN app for Palm Beach Tech Hackathon 2020
+  - 🧺 [Snack Basket](https://github.com/e-a-w/snack-basket) -> MERN app for ShellHacks 2020
+  - ⏩ [YouTube White Mockup](https://github.com/e-a-w/youtubewhite-mockup) -> CSS Youtube mockup
+  - 😄 [Meme Park](https://github.com/e-a-w/Meme-Park) -> MERN app with GIPHY meme API
+- ⚡ Recent experiments:
+  - 🧮 [O(n) Calculator](https://github.com/e-a-w/algorithm-calculator) -> Javascript interactive calculator with HTML/CSS UI
+  - 🥪 [Sandwich Shoppe](https://github.com/e-a-w/sandwich-shoppe) -> React shopping app
+  - 🏊 [Figure Finder](https://github.com/e-a-w/figure-finder) -> MERN & GraphQL app
+  - 📐 [SASS Practice](https://github.com/e-a-w/sass-scss-practice)
+  - ➕ Want to see more? Check out some smaller projects on my [Repl.it](https://repl.it/@ewatkins) && [Codepen](https://codepen.io/eaw/)!
 
 <hr/>
 
