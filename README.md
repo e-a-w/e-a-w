@@ -18,7 +18,7 @@ I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
   - 🥪 [Sandwich Shoppe](https://github.com/e-a-w/sandwich-shoppe) -> React shopping app
   - 🏊 [Figure Finder](https://github.com/e-a-w/figure-finder) -> MERN & GraphQL app
   - 📐 [SASS Practice](https://github.com/e-a-w/sass-scss-practice)
-  - ➕ Want to see more? Check out some smaller projects on my [Repl.it](https://repl.it/@ewatkins) && [Codepen](https://codepen.io/eaw/)!
+  - ➕ Want to see more? Check out some smaller projects like [this card game](https://repl.it/@ewatkins/cardgame-1) on my [Repl.it](https://repl.it/@ewatkins) && [Codepen](https://codepen.io/eaw/)!
 
 <hr/>
 
