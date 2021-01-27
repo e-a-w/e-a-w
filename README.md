@@ -22,6 +22,6 @@ I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
 
 <hr/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-six-woad.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=vue))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-a-w&count_private=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-woad.vercel.app/api/top-langs/?username=e-a-w&count_private=true&langs_count=10&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
