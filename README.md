@@ -13,6 +13,7 @@ I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
   - 🧺 [Snack Basket](https://github.com/e-a-w/snack-basket) -> MERN app for ShellHacks 2020
   - ⏩ [YouTube White Mockup](https://github.com/e-a-w/youtubewhite-mockup) -> CSS Youtube mockup
   - 😄 [Meme Park](https://github.com/e-a-w/Meme-Park) -> MERN app with GIPHY meme API
+  
 - ⚡ Recent experiments:
   - 🧮 [O(n) Calculator](https://github.com/e-a-w/algorithm-calculator) -> Javascript interactive calculator with HTML/CSS UI
   - 🥪 [Sandwich Shoppe](https://github.com/e-a-w/sandwich-shoppe) -> React shopping app
@@ -22,6 +23,6 @@ I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
 
 <hr/>
 
-[![My GitHub stats](https://github-readme-stats-git-master.e-a-w.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-git-master.e-a-w.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=vue&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-master.e-a-w.vercel.app/api/top-langs/?username=e-a-w&count_private=true&langs_count=10&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
