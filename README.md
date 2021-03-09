@@ -9,7 +9,7 @@ I'm Liz, full stack developer, automation engineer & Wyncode teaching assistant!
 
 - 📌 Finished projects:
   - 🐍 [Petster Exotic](https://github.com/wyncode/C38_snakes_on_a_repo) -> MERN pet-sitting app; winner of Wyncode Pitch Night 09/2020!
-  - 💕 [Heart2Heart](https://github.com/Cal9233/heart2heart) -> MERN app for Palm Beach Tech Hackathon 2020
+  - 💕 [Heart2Heart](https://github.com/e-a-w/heart2heart) -> MERN app for Palm Beach Tech Hackathon 2020
   - 🧺 [Snack Basket](https://github.com/e-a-w/snack-basket) -> MERN app for ShellHacks 2020
   - ⏩ [YouTube White Mockup](https://github.com/e-a-w/youtubewhite-mockup) -> CSS Youtube mockup
   - 😄 [Meme Park](https://github.com/e-a-w/Meme-Park) -> MERN app with GIPHY meme API
