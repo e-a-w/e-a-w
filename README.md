@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liz, full stack developer!
+I'm Liz, full stack developer! I currently work at springbig as a Ruby on Rails engineer.
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
