@@ -1,10 +1,13 @@
-### Hello! 👋
+Hi, I'm **Liz**! 👋 I currently work at springbig as a full stack software engineer.
 
-I'm Liz, full stack developer! I currently work at springbig as a Ruby on Rails engineer.
+<a href="https://www.linkedin.com/in/eawatkins/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- 💬 Ask me about anything!
+<!--
+- 💬 Ask me about anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
+-->
 
+<!-- 
 <hr/>
 
 - 📌 Finished projects:
@@ -19,10 +22,10 @@ I'm Liz, full stack developer! I currently work at springbig as a Ruby on Rails 
   - 🥪 [Sandwich Shoppe](https://github.com/e-a-w/sandwich-shoppe) -> React shopping app
   - 🏊 [Figure Finder](https://github.com/e-a-w/figure-finder) -> MERN & GraphQL app
   - 📐 [SASS Practice](https://github.com/e-a-w/sass-scss-practice)
-  - ➕ Want to see more? Check out some smaller projects like [this card game](https://repl.it/@ewatkins/cardgame-1) on my [Repl.it](https://repl.it/@ewatkins) && [Codepen](https://codepen.io/eaw/)!
+  - ➕ Want to see more? Check out some smaller projects like [this card game](https://repl.it/@ewatkins/cardgame-1) on my [Repl.it](https://repl.it/@ewatkins) && [Codepen](https://codepen.io/eaw/)! -->
 
-<hr/>
+<!-- <hr/> -->
 
-[![My GitHub stats](https://github-readme-stats-git-master.e-a-w.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=vue&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-master.e-a-w.vercel.app/api/top-langs/?username=e-a-w&count_private=true&langs_count=10&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats-git-master.e-a-w.vercel.app/api?username=e-a-w&count_private=true&show_icons=true&theme=vue&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+[![Top Langs](https://github-readme-stats-git-master.e-a-w.vercel.app/api/top-langs/?username=e-a-w&count_private=true&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
