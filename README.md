@@ -2,6 +2,8 @@ Hi, I'm **Liz**! 👋 I currently work at springbig as a full stack software eng
 
 <a href="https://www.linkedin.com/in/eawatkins/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<a href="https://cssbattle.dev/player/eaw">![image](https://img.shields.io/badge/css--battle-profile-brightgreen?style=for-the-badge)</a>
+
 <!--
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eawatkins/) || [Portfolio](https://www.liz-watkins.com) || [Repl.it](https://repl.it/@ewatkins) || [Codepen](https://codepen.io/eaw/)
