@@ -1,4 +1,4 @@
-Hi, I'm **Liz**! 👋 I currently work at springbig as a full stack software engineer. The stack I'm most familiar with is Ruby on Rails/Postgres/Vue.js, but I've used other technologies as well, and love picking up new tools & tricks! 💡
+Hi, I'm **Liz**! 👋 I currently work at springbig as a full stack software engineer. The technologies I'm most familiar with are Ruby on Rails/Postgres/Vue.js, but I've used other stacks as well, and love picking up new tools & tricks! 💡
 
 <hr/>
 
